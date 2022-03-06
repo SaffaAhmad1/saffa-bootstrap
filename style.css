@@ -1,0 +1,83 @@
+.job{
+    color: #0563bb;
+}
+.c1{
+    border-bottom: 2px solid #ccc;
+    width: 13%;
+    left: 43%;
+}
+.c2{
+    border-bottom: 2px solid #0563bb;
+    width: 5%;
+    left: 47%;
+}
+.about{
+    margin-top: 60px;
+}
+ul{
+    margin-top: 350px;
+}
+.fa-user{
+    background-color: #0563bb;
+}
+.fa-angle-right{
+    color: #0563bb;
+}
+.facts{
+    margin-top: 40px;
+}
+.fa-arrow-up{
+    background-color: #0563bb;
+    margin-left: 1301px;
+}
+.fa-smile , .fa-book ,.fa-headphones , .fa-bookmark{
+    background-color: #0563bb;
+}
+
+
+.skills{
+    margin-top: 150px;
+}
+.progress{
+    border-radius: 0%;
+    margin-top: 30px;
+}
+.place{
+    margin-bottom: -12px;
+    margin-top: 15px;
+}
+h6{
+    left: 90%;
+    
+}
+
+.resume{
+    margin-top: 150px;
+    margin-bottom: 80px;
+}
+.summry{
+    border-left: solid 2px #0563bb;
+    
+}
+.name{
+    color: #0563bb;
+}
+.summry ul{
+    margin-top: 0px;
+}
+.summry ul li{
+    margin-top: 8px;
+}
+.fa-basketball{
+    color:rgb(15, 173, 247);
+}
+.safa{
+    width: 110px;
+    height: 110px;
+}
+.btn{
+    background-color: #0563bb;
+}
+
+
+
